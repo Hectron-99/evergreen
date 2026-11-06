@@ -1,5 +1,6 @@
 // Shared layout and behaviour for every page.
 (function(){
+try{var t=localStorage.getItem("theme");if(t)document.documentElement.dataset.theme=t}catch(e){}
 var S=SITE,B=document.body,page=B.getAttribute("data-page")||"home";
 function ic(n){return '<svg class="i"><use href="#'+n+'"/></svg>'}
 function wa(t){return "https://wa.me/"+S.whatsapp+"?text="+encodeURIComponent(t||"Hello")}
@@ -37,7 +38,7 @@ var nv=document.getElementById("nav"),sc=document.getElementById("scrim"),mb=doc
 function setMenu(o){nv.classList.toggle("open",o);sc.classList.toggle("open",o);mb.setAttribute("aria-expanded",o)}
 mb.onclick=function(){setMenu(!nv.classList.contains("open"))};sc.onclick=function(){setMenu(false)};
 nv.addEventListener("click",function(e){if(e.target.closest(".xb"))setMenu(false)});
-document.getElementById("theme").onclick=function(){var r=document.documentElement,d=r.dataset.theme||(matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light");r.dataset.theme=(d==="dark")?"light":"dark"};
+document.getElementById("theme").onclick=function(){var r=document.documentElement,d=r.dataset.theme||(matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light"),n=(d==="dark")?"light":"dark";r.dataset.theme=n;try{localStorage.setItem("theme",n)}catch(e){}};
 
 // moving banner
 var tk=document.getElementById("track"),g1=tk.innerHTML,grp=g1;tk.innerHTML=grp;
