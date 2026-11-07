@@ -4,7 +4,6 @@
 // The first 4 products also show on the Home page.
 var PRODUCTS=[
   {name:"FA Herbal Powder", note:"Traditional herbal powder for everyday wellness.", img:"fa-herbal-powder.webp", w:900, h:363},
-  {name:"Eva Power Herbal Powder", note:"Herbal powder that supports strength and vitality.", img:"eva-power-herbal-powder.webp", w:216, h:330, photo:true},
   {name:"Eva Flusher Capsule", note:"Gentle herbal capsule for natural cleansing.", img:"eva-flusher-capsule.webp", w:220, h:335, photo:true},
   {name:"GB Liquid", note:"Herbal liquid", img:"gb-liquid.webp", w:900, h:363},
   {name:"GB Powder", note:"Herbal powder", img:"gb-powder.webp", w:900, h:363},
