@@ -97,6 +97,7 @@ var INFO={
 },
 
 "D2 Herbal Powder":{
+  p:"₦4000",
   u:"Frequent urination",
   d:"One teaspoon with warm water, tea or pap, twice daily"
 },
