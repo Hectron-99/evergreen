@@ -103,21 +103,25 @@ var INFO={
 },
 
 "TP Herbal Powder":{
+  p:"₦2000",
   u:"Typhoid fever",
   d:"One teaspoon with warm water, tea or pap, twice daily"
 },
 
 "Joker Herbal Remedy":{
+  p:"₦2000",
   u:"Worms of any kind (hook worms, eye worms, chest worms)",
   d:"One teaspoon with 7up or pap, tea or warm water after food at night, for adults and children every day"
 },
 
 "OP Herbal Powder":{
+  p:"₦4000",
   u:"Stomach noise, waist pain, back pain, menstrual pain, indigestion, weak erection",
   d:"One teaspoon at night, 3 times a week, with warm water before food"
 },
 
 "Washing & Settings Herbal Powder":{
+  p:"₦3000",
   u:"Bacteria diseases or S.T.I",
   d:"One teaspoon at night with warm water before food every day"
 },
