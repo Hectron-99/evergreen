@@ -22,7 +22,6 @@ var PRODUCTS=[
   {name:"Joker Herbal Remedy", note:"Herbal remedy", img:"joker-herbal-remedy.webp", w:900, h:366},
   {name:"OP Herbal Powder", note:"Herbal powder", img:"op-herbal-powder.webp", w:900, h:364},
   {name:"Washing & Settings Herbal Powder", note:"Herbal powder", img:"washing-settings-herbal-powder.webp", w:655, h:267},
-  {name:"Power Liquids", note:"Herbal liquid", img:"power-liquids.webp", w:428, h:172},
   {name:"ST1 Capsules", note:"Herbal capsules", img:"st1-capsules.webp", w:900, h:363},
   {name:"ST2 Capsules", note:"Herbal capsules", img:"st2-capsules.webp", w:900, h:363},
   {name:"ST3 Capsules", note:"Herbal capsules", img:"st3-capsules.webp", w:900, h:363},
