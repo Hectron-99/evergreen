@@ -128,22 +128,19 @@ var INFO={
 
 "ST1 Capsules":{
   p:"₦8000",
-  u:"An ancient herbal remedy for blood related diseases such as: Sexual Diseases, Bacterial Infections, Fungi Infections, Veneral Infections, Indigestion. Such as Starphylococcus Aureus, Syphilis, E-coil, Candidiasis, Gonorrhea, Urinary Track Infection, Mouth Odor, PID & Constant Fever Etc.",
-  indication:true,
+  u:"Blood cleansing and everyday wellness",
   d:"4 capsules with warm water after food, morning and night every day"
 },
 
 "ST2 Capsules":{
   p:"₦7000",
-  u:"An ancient herbal remedy for blood related diseases such as: Sexual Diseases, Bacterial Infections, Fungi Infections, Veneral Infections, Indigestion. Such as Starphylococcus Aureus, Syphilis, E-coil, Candidiasis, Gonorrhea, Urinary Track Infection, Mouth Odor, PID & Constant Fever Etc.",
-  indication:true,
+  u:"Blood cleansing and everyday wellness",
   d:"4 capsules with warm water after food, morning and night every day"
 },
 
 "ST3 Capsules":{
   p:"₦6000",
-  u:"An ancient herbal remedy for blood related diseases such as: Sexual Diseases, Bacterial Infections, Fungi Infections, Veneral Infections, Indigestion. Such as Starphylococcus Aureus, Syphilis, E-coil, Candidiasis, Gonorrhea, Urinary Track Infection, Mouth Odor, PID & Constant Fever Etc.",
-  indication:true,
+  u:"Blood cleansing and everyday wellness",
   d:"4 capsules with warm water after food, morning and night every day"
 },
 
@@ -189,6 +186,7 @@ var INFO={
 
 "Eva Flusher Liquid":{
   p:"₦3000",
+  u:"Blood cleansing and everyday wellness",
   d:"Two tablespoons before or after food in the morning every day"
 }
 
