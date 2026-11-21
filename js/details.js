@@ -126,12 +126,6 @@ var INFO={
   d:"One teaspoon at night with warm water before food every day"
 },
 
-"Power Liquids":{
-  p:"₦2,000",
-  u:"For the management to improve men's sexual performance.",
-  indication:true
-},
-
 "ST1 Capsules":{
   p:"₦8000",
   u:"An ancient herbal remedy for blood related diseases such as: Sexual Diseases, Bacterial Infections, Fungi Infections, Veneral Infections, Indigestion. Such as Starphylococcus Aureus, Syphilis, E-coil, Candidiasis, Gonorrhea, Urinary Track Infection, Mouth Odor, PID & Constant Fever Etc.",
