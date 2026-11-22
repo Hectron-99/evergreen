@@ -19,6 +19,7 @@ var INFO={
 },
 
 "Eva Flusher Capsule":{
+    p:"₦7,000",
   indication:true,
   u:"An ancient herbal remedy for blood related diseases such as: Sexual Diseases, Bacterial Infections, Fungi Infections, Veneral Infections, Indigestion. Such as Starphylococcus Aureus, Syphilis, E-coil, Candidiasis, Gonorrhea, Urinary Track Infection, Mouth Odor, PID & Constant Fever Etc."
 },
